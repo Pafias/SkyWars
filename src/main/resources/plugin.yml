@@ -1,0 +1,11 @@
+name: SkyWars
+version: ${project.version}
+main: me.pafias.skywars.SkyWars
+api-version: 1.13
+authors: [Pafias]
+description: SkyWars
+commands:
+  skywars:
+    usage: /skywars
+    aliases: [sw]
+    description: SkyWars Main Command
